@@ -4,7 +4,7 @@ This space is dedicated to hosting the reproducible codebase and computational w
 
 Additionally, a comprehensive directory of the bioinformatics team, coordinated by [Baptiste Lamarthée, PhD](https://github.com/BaptLabRight), is maintained below, listing each member’s role, expertise, and contact information for analysis requests from lab members and collaboration inquiries.
 
-| Name               | Position               | Team          | Expertise          | GitHub Portfolio                     |
+| Name               | Position               | Team          | Expertise          | Portfolio and Contact                     |
 |--------------------|------------------------|---------------|---------------|--------------------------------------|
 | Alexis Varin, PhD        | Research Engineer | TAI-IT | Bulk, scRNAseq, Spatial, Multi-omics          | [Alexis-Varin.github.io](https://Alexis-Varin.github.io)                 |
 | Julien Viot, MD, PhD        | Oncologist | TICI  |           | [jviot.github.io](https://jviot.github.io)                |
