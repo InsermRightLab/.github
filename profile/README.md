@@ -1,6 +1,6 @@
 ## Welcome to the GitHub of the Inserm UMR Right lab
 
-This space is dedicated to hosting the reproducible codebase and computational workflows underpinning the lab’s scientific publications. Each repository is tied to a published study, providing open access to scripts, pipelines, and analysis tools.
+This space is dedicated to hosting the reproducible codebase and computational workflows underpinning the lab’s scientific publications. Each repository is tied to a published study or preprint, providing open access to scripts, pipelines, and analysis tools.
 
 Additionally, a comprehensive directory of the bioinformatics team, coordinated by [Baptiste Lamarthée, PhD](https://github.com/BaptLabRight), is maintained below, listing each member’s role, expertise, and contact information for analysis requests from lab members and collaboration inquiries.
 
