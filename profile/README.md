@@ -6,7 +6,7 @@ Additionally, a comprehensive directory of the bioinformatics team is maintained
 
 | Name               | Position               | Team          | Expertise          | GitHub Portfolio                     |
 |--------------------|------------------------|---------------|---------------|--------------------------------------|
-| Alexis Varin        | Research Engineer, PhD | TAI-IT | Bulk, scRNAseq, Spatial, Multi-omics, Biostatistics          | [Alexis-Varin.github.io](https://Alexis-Varin.github.io)                 |
+| Alexis Varin        | Research Engineer, PhD | TAI-IT | Bulk, scRNAseq, Spatial, Multi-omics          | [Alexis-Varin.github.io](https://Alexis-Varin.github.io)                 |
 | Julien Viot        | Oncologist, MD, PhD | TICI  |           | [jviot.github.io](https://jviot.github.io)                |
 | Alexis Overs        | Biologist, MD, PhD | TICI  |           | [aovers.github.io](https://aovers.github.io)                |
 | Babacar Ndao        | Research Engineer | TICI  |           | [bndao.github.io](https://bndao.github.io)                |
