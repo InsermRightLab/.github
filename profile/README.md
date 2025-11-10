@@ -1,12 +1,13 @@
 ## Welcome to the GitHub of the Inserm UMR RIGHT lab
 
-<!--
+This space is dedicated to hosting the reproducible codebase and computational workflows underpinning the lab’s scientific publications. Each repository is tied to a published study, providing open access to scripts, pipelines, and analysis tools.
 
-**Here are some ideas to get you started:**
+Additionally, a comprehensive directory of the bioinformatics team is maintained below, listing each member’s role, expertise, and contact information for analysis requests from Inserm UMR RIGHT lab members and collaboration inquiries.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Name               | Position               | Team          | GitHub Portfolio                     |
+|--------------------|------------------------|---------------|--------------------------------------|
+| Alexis Varin        | Research Engineer, PhD | TAI-IT | [Alexis-Varin.github.io](https://Alexis-Varin.github.io)                 |
+| Julien Viot        | Oncologist, MD, PhD | TICI  | [jviot.github.io](https://jviot.github.io)                |
+| Alexis Overs        | Biologist, MD, PhD | TICI  | [aovers.github.io](https://aovers.github.io)                |
+| Babacar Ndao        | Research Engineer | TICI  | [bndao.github.io](https://bndao.github.io)                |
+| Christian Vulpe        | Research Engineer | TICI  | [ChristianVulpe.github.io](https://ChristianVulpe.github.io)                |
